@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-I am Suyash Chavan a second year B.Tech student at Walchand College of Engineering, Sangli. I am a Competitive Programmer. It gives me kick to solve CP problems and optimise them to their limits.
+I am Suyash Chavan a second year B.Tech student at Walchand College of Engineering, Sangli. I am a Competitive Programmer and Cyber Security enthusiast(may be more than that). I love to solve CTFs(Not on Machines but related to Cryptography, Web, etc). I also solve CP problems and try to optimise them to their limits.
 
 You can visit my profiles here:
+* https://ctflearn.com/user/SuyashC
 * https://www.codechef.com/users/suyashc222
 * https://codeforces.com/profile/suyashc222 (Recently Started)
 
-Talking about development stuff, I generally work on backend in Web Dev projects. I am looking forward for a deployable project to cover up multiple domains of Computer Science.
+Talking about development stuff, I generally work on backend in Web Dev projects. I am looking forward for a deployable project that covers multiple domains of Computer Science.
 
 <!--
 **suyash-chavan/suyash-chavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
