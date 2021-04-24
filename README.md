@@ -3,8 +3,8 @@
 I am Suyash Chavan a second year B.Tech student at Walchand College of Engineering, Sangli. I am a Competitive Programmer. It gives me kick to solve CP problems and optimise them to their limits.
 
 You can visit my profiles here:
-https://www.codechef.com/users/suyashc222
-https://codeforces.com/profile/suyashc222 (Recently Started)
+* https://www.codechef.com/users/suyashc222
+* https://codeforces.com/profile/suyashc222 (Recently Started)
 
 Talking about development stuff, I generally work on backend in Web Dev projects. I am looking forward for a deployable project to cover up multiple domains of Computer Science.
 
