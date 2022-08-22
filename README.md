@@ -1,6 +1,6 @@
 <h2> Hello, I'm Suyash Chavan </h2>
 
-<p><img align="right" src="https://c.tenor.com/pttxLYVbZH8AAAAC/hello-pinguin.gif" alt="hello" height="200px" /></p>
+<p><img align="right" src="https://c.tenor.com/pttxLYVbZH8AAAAC/hello-pinguin.gif" alt="hello" height="200rem" style="margin-left: 30rem;" /></p>
 
 I'm a Backend Developer who is passionate about DevOps. I spend time creating/experimenting on systems using multiple strategies and thinking about their throughput. Being part of [Walchand Linux Users' Group](https://wcewlug.org), I appreciate and promote Linux a lot and I'm currently working on Linux Kernal.
 
