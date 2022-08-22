@@ -1,14 +1,24 @@
-### Hi there 👋
+<h2> Hello, I'm Suyash Chavan </h2>
 
-I am Suyash Chavan a second year B.Tech student at Walchand College of Engineering, Sangli. I am a Competitive Programmer and Cyber Security enthusiast(may be more than that). I love to solve CTFs(Not on Machines but related to Cryptography, Web, etc). I also solve CP problems and try to optimise them to their limits.
+<p><img align="right" src="https://c.tenor.com/pttxLYVbZH8AAAAC/hello-pinguin.gif" alt="hello" height="200px" /></p>
 
-You can visit my profiles here:
-* https://app.hackthebox.eu/profile/478813
-* https://ctflearn.com/user/SuyashC (Top 250 sometimes)
-* https://www.codechef.com/users/suyashc222
-* https://codeforces.com/profile/suyashc222 (Recently Started)
+I'm a Backend Developer who is passionate about DevOps. I spend time creating/experimenting on systems using multiple strategies and thinking about their throughput. Being part of [Walchand Linux Users' Group](https://wcewlug.org), I appreciate and promote Linux a lot and I'm currently working on Linux Kernal.
 
-Talking about development stuff, I generally work on backend in Web Dev projects. I am looking forward for a deployable project that covers multiple domains of Computer Science.
+Sometimes I spend my time participating in Competitive Programming contests with friends and dicsussing optimization strategies. I love to go through IEEE Standards(802) as it gives me understanding of internal working of various abstract topics in networking.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/suyashc" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="suyash-chavan" height="30" width="40" /></a>
+  <a href = 'https://twitter.com/_suyashchavan_'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
+</p>
+
+
+<h3 align="left">Some Stats:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyash-chavan&show_icons=true&locale=en&layout=compact" alt="suyash-chavan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyash-chavan&show_icons=true&locale=en" alt="suyash-chavan" /></p>
 
 <!--
 **suyash-chavan/suyash-chavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
